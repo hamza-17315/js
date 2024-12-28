@@ -22,8 +22,17 @@ document.write("<h2>The sum of multiplication:" + sum + "</h2>");
 
 // =============================
 
-var num7=prompt("enter first number")
-var num8=prompt("enter sucand number")
-sum=num7/num8;
-document.write("<h2>The sum of portion:" + sum + "</h2>");
+ var num7=prompt("enter first number")
+ var num8=prompt("enter sucand number")
+ sum=num7/num8;
+ document.write("<h2>The sum of portion:" + sum + "</h2>");
+
+
+        
+        
+        
+    
+
+
+
 
