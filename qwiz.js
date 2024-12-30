@@ -8,5 +8,5 @@ var sum=num1+num2+num3+num4+num5+num6 ;
 document.write("the sum="+sum)
 var avg=sum/6;
 document.write(" the average="+avg)
-var percentage=(sum/100)*100;
-document.write(" the percentage="+percentage)
+var percentage=(sum/600)*100;
+document.write(" the percentage="+percentage+"%")
