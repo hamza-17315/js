@@ -1,9 +1,9 @@
-var num1=+prompt("Enter The first subject")
-var num2=+prompt("Enter The first subject")
-var num3=+prompt("Enter The first subject")
-var num4=+prompt("Enter The first subject")
-var num5=+prompt("Enter The first subject")
-var num6=+prompt("Enter The first subject")
+var num1=+prompt("Enter The 1 subject")
+var num2=+prompt("Enter The 2 subject")
+var num3=+prompt("Enter The 3 subject")
+var num4=+prompt("Enter The 4 subject")
+var num5=+prompt("Enter The 5 subject")
+var num6=+prompt("Enter The 6 subject")
 var sum=num1+num2+num3+num4+num5+num6 ;
 document.write("the sum="+sum)
 var avg=sum/6;
